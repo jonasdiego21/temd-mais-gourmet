@@ -20,10 +20,10 @@ export default function Main() {
           <img src={setaVoltar} alt="Voltar" />
         </Link>
 
-        <Card image="https://conteudo.imguol.com.br/c/entretenimento/ee/2017/12/15/prato-saudavel-arroz-feijao-salada-frango-1513356794627_v2_450x450.jpg" title="Image 1" />
-        <Card image="https://conteudo.imguol.com.br/c/entretenimento/ee/2017/12/15/prato-saudavel-arroz-feijao-salada-frango-1513356794627_v2_450x450.jpg" title="Image 2" />
-        <Card image="https://conteudo.imguol.com.br/c/entretenimento/ee/2017/12/15/prato-saudavel-arroz-feijao-salada-frango-1513356794627_v2_450x450.jpg" title="Image 3" />
-        <Card image="https://conteudo.imguol.com.br/c/entretenimento/ee/2017/12/15/prato-saudavel-arroz-feijao-salada-frango-1513356794627_v2_450x450.jpg" title="Image 4" />
+        <Card image="" title="Image 1" />
+        <Card image="" title="Image 2" />
+        <Card image="" title="Image 3" />
+        <Card image="" title="Image 4" />
       </div>
     </div>
   )
