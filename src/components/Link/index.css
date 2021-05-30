@@ -1,0 +1,13 @@
+.link {
+  background: transparent;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin: 15px;
+}
+
+.link:hover {
+  opacity: 0.8;
+  transition: all 0.3s;
+}

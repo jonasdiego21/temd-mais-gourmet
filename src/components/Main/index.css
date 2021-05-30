@@ -1,0 +1,19 @@
+.container-boards {
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 25px;
+}
+
+.container-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-cards > img {
+  margin: 15px;
+}
